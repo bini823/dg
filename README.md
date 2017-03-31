@@ -1,4 +1,3 @@
-# dg
 <html>
 <body>
 <table>
