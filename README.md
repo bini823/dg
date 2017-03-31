@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <th>Robots.txt Test</th>
-<td>robots.txt is a text file webmasters create to instruct robots (typically search engine robots) how to crawl and index pages on their website.</td><br>
+<td>Robots.txt is a text file webmasters create to instruct robots (typically search engine robots) how to crawl and index pages on their website.</td><br>
 </tr>
 <tr>
 <th>Favicon Test</th>
