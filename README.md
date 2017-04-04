@@ -10,7 +10,7 @@
 <tr>
 <th>Meta Description</th>
 <td>Most search engines will truncate meta descriptions to 160 characters.</td>
-<td>The Government of the National Capital Territory of Delhi is the governing authority of the Indian national capital territory of Delhi and its 11 districts. ... The present Legislative Assembly of Delhi is unicameral, consisting of 70 Members of the Legislative Assembly (MLA).</td><br>
+<td>The Government of the National Capital Territory of Delhi is the governing authority of the Indian national capital territory of Delhi and its 11 districts.</td><br>
 </tr>
 <tr>
 <th>h1 Headings Status</th>
