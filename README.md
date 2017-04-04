@@ -46,6 +46,12 @@ Now just add a little html code to your web pages so the the favicon will show u
 <td>Average web page size should be of 33 Kb. </td><br>
 </tr>
 <tr>
+<th>WWW redirection Test</th>
+<td>A redirect is in place to redirect traffic from your non-preferred domain.</td>
+<td>1. Hosting (Parking) All the Domains on Your Web Host.<br>
+2. Redirecting All the Alternative Names to Your Main (Primary) Domain Name from Your Domain Registrar.</td><br>
+</tr>
+<tr>
 <th>HTML Compression Test</th>
 <td>It is recommended to use html compression e-g: gzip compression </td>
 <td>There are different methods of setting up gzip compression depending on whether or not you've got an IIS or Apache server-
