@@ -75,7 +75,7 @@ table#t01 th {
 <tr>
 <th>Underscores in Links Test</th>
 <td>Your webpage underscores in link test is <b>null</b></td>
-<td>A url must caontain only lower alphabets, numbers, slashes(/), dash(-).</td>
+<td>A url must contain only lower alphabets, numbers, slashes(/), dash(-).</td>
 </tr>
 <tr>
 
@@ -83,7 +83,7 @@ table#t01 th {
 
 <td>All urls found that are seo friendly.</td>
 
-<td>An SEO friendly url must caontain only lower alphabets, numbers, slashes(/), dash(-). Underscores, upercase Alphabets and specialchars (e-g: & ? %) are nto seo friendly.<br><br>
+<td>An SEO friendly url must contain only lower alphabets, numbers, slashes(/), dash(-). Underscores, upercase Alphabets and specialchars (e-g: & ? %) are nto seo friendly.<br><br>
 <b>Eg:-</b> https://delhi.gov.in//sites/upload/files/dg<br>https://delhi.gov.in///gsearchs-driving/20licence</td>
 
 </tr>
@@ -124,7 +124,7 @@ Click on save, and now you have a favicon of your own.</td>
 <tr>
 <th>Nofollow Tag Checker</th>
 <td>Your webpage does not use the nofollow meta tag.</td>
-<td>This means that your webpage will be read and indexed by search engines.</td>
+<td>This means that search engins will crawl all links from your webpage.</td>
 </tr>
 <tr>
 
