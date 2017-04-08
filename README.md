@@ -36,7 +36,7 @@ table#t01 th {
   <th>Page Title</th>
   <td>The Page title length of your page is <b>23</b> characters.</td>
   <td>Most search engines will truncate Page title to <b>65</b> characters.<br><br>
-  <b>Eg:-</b>Delhi Government Portal<br>(65 characters)</td>
+  <b>Eg:-</b>Delhi Government Portal<br><b>(65 characters)</b></td>
   </tr>
   <tr>
   <th>Meta Description</th>
@@ -44,7 +44,7 @@ table#t01 th {
 <td>The meta description length of your page is <b>0</b> characters.</td>
 
 <td>Most search engines will truncate meta descriptions to 160 characters.<br><br>
-<b>Eg:-</b>The Government of the National Capital Territory of Delhi is the governing authority of the Indian national capital territory of Delhi and its 11 districts.<br>(155 characters)</td>
+<b>Eg:-</b>The Government of the National Capital Territory of Delhi is the governing authority of the Indian national capital territory of Delhi and its 11 districts.<br><b>(155 characters)</b></td>
   </tr>
   <tr>
 
