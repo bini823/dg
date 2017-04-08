@@ -43,7 +43,7 @@ table#t01 th {
 
 <td>The meta description length of your page is <b>0</b> characters.</td>
 
-<td>Most search engines will truncate meta descriptions to 160 characters.<br><br>
+<td>Most search engines will truncate meta descriptions to <b>160</b> characters.<br><br>
 <b>Eg:-</b>The Government of the National Capital Territory of Delhi is the governing authority of the Indian national capital territory of Delhi and its 11 districts.<br><b>(155 characters)</b></td>
   </tr>
   <tr>
