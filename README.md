@@ -47,6 +47,16 @@ table#t01 th {
 <b>Eg:-</b>The Government of the National Capital Territory of Delhi is the governing authority of the Indian national capital territory of Delhi and its 11 districts.<br><b>(155 characters)</b></td>
   </tr>
   <tr>
+  <th>Meta keywords</th>
+  <td>Meta keywords not Found</td>
+  <td>Google Does not accept meta keywords any more.</td>
+  </tr>
+  <tr>
+  <th>Keywords Test</th>
+  <td>Your most common keywords are not appearing in one or more of the meta-tags above.</td>
+  <td>Your primary keywords should appear in your meta-tags to help identify the topic of your webpage to search engines.</td>
+  </tr>
+  <tr>
 
 <th>H1 Headings Status</th>
 
@@ -68,7 +78,7 @@ table#t01 th {
 </tr>
 <tr>
 <th>Sitemap Test</th>
-<td>We've found 1 sitemaps files for your website</td>
+<td>We've found <b>1</b> sitemaps files for your website</td>
 <td>Sitemaps are a very important way for a website to communicate with a search engine. It tells a search engine which part of the website to not include for indexing.<br><br>
 <b>Eg:-</b> http://delhi.gov.in/sitemap.xml </td>
 </tr>
@@ -109,13 +119,18 @@ Remove inline css and add it in external css file.</td>
 </tr>
 <tr>
 <th>Favicon Test</th>
-<td>Your website appears not to have a favicon.</td>
-<td>If favicon does'nt appears then following method should be used:-<br><br>
+<td><b>Your website appears not to have a favicon.</b></td>
+<td>If favicon doesn't appears then following method should be used:-<br><br>
 You need to start with a square image. When you have the image you want, name it favicon.ico. 
 Now you need to use an FTP client and upload it to your document root directory. This is important, so if you don't know what your document root directory is, 
 ask your hosting provider. Now just add a little html code to your web pages so the the favicon will show up. This can be before or after the title tags. 
 Click on save, and now you have a favicon of your own.</td>
 </tr>
+<tr>
+  <th>Deprecated HTML Tags</th>
+  <td>Your page does not use HTML deprecated tags.</td>
+  <td>A webpage should not use deprecated html tags.</td>
+  </tr>
 <tr>
 <th>Noindex Tag Checker</th>
 <td>Your webpage does not use the noindex meta tag.</td>
@@ -163,6 +178,11 @@ Click on save, and now you have a favicon of your own.</td>
 
 5.Regularly remove harmful links to your page.</td>
 
+</tr>
+<tr>
+<th>WWW redirection Test</th>
+<td>redirect is not place to redirect traffic from your non-preferred domain. Your website does not directs </td>
+<td>Website should directs <b>www.delhigovt.nic.in</b> and <b>delhigovt.nic.in</b> to the same URL.</td>
 </tr>
 <tr>
 
