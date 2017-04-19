@@ -112,7 +112,7 @@ table#t01 th {
 <td>No Img tag Found</td>
  <td>Not Good</td>
 <td>Required 'alt' attribute.<br><br>
-<img id="t007-10048" style="width: 100%; height: auto;" alt="image" src="/images/image-1-.png"  width ="108" height ="65" /></td>
+</td>
 
 </tr>
 <tr>
@@ -128,7 +128,7 @@ Remove inline css and add it in external css file.</td>
 <tr>
 <th>Favicon Test</th>
 <td>Your website appears not to have a favicon.</td>
- <td>Good</td>
+ <td>Not Good</td>
 <td><b>If favicon doesn't appears then following method should be used:-</b><br><br>
 You need to start with a square image. When you have the image you want, name it favicon.ico. 
 Now you need to use an FTP client and upload it to your document root directory. This is important, so if you don't know what your document root directory is, 
