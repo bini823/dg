@@ -80,14 +80,14 @@ table#t01 th {
 <td>Your site use a "robots.txt" file</td>
  <td>Good</td>
 <td>Robots.txt files that help ensure Google and other search engines are crawling and indexing your site properly.<br><br>
-<b>Eg:-</b> <a href="http://delhi.gov.in/robots.txt"></a></td>
+<b>Eg:-</b> <a href="http://delhi.gov.in/robots.txt">robots.txt</a></td>
 </tr>
 <tr>
 <th>Sitemap Test</th>
 <td>We've found <b>1</b> sitemaps files for your website</td>
  <td>Good</td>
 <td>Sitemaps are a very important way for a website to communicate with a search engine. It tells a search engine which part of the website to not include for indexing.<br><br>
-<b>Eg:-</b> <a href="http://delhi.gov.in/sitemap.xml"></a> </td>
+<b>Eg:-</b> <a href="http://delhi.gov.in/sitemap.xml">sitemaps.xml</a> </td>
 </tr>
 <tr>
 <th>Underscores in Links Test</th>
